@@ -1,13 +1,11 @@
 * {
   box-sizing: border-box;
-  font-family: "Roboto", sans-serif;
+  font-family: sans-serif;
 }
 
 body {
-  padding: 20px;
+  padding: 30px;
   margin: 0;
-  background-color: black;
-  color: #fff;
 }
 
 h1 {
